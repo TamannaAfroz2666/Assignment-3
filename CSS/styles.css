@@ -2,6 +2,9 @@
     width: 20px;
     color: white;
 }
+.card{
+    padding: 10px !important;
+}
 /* .course {
     padding: 0% 10%;
     width: 100%;
