@@ -1,24 +1,13 @@
-.brand{
+ *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+ }
+ .brand{
     width: 20px;
     color: white;
 }
-.card{
-    padding: 10px !important;
-}
-/* .course {
-    padding: 0% 10%;
-    width: 100%;
 
-} */
-/* .courses{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    
-} */
-/* .card{
-    width: 47%;
-} */
-/* courses  */
+
+
 
